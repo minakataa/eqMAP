@@ -1,3 +1,6 @@
+#************************************************
+#****Show the last 100 earthquakes near Japan****
+#************************************************
 import requests
 import folium
 import numpy as np
